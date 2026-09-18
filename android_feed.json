@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T00:38:00Z",
+  "generated": "2026-09-18T15:14:47Z",
   "schema": 4,
   "sources": {
     "versions": "https://endoflife.date/api/android.json",
@@ -721,7 +721,7 @@
   "kev": {
     "matches_this_month": [],
     "match_count": 0,
-    "catalog_date": "2026-09-16T18:47:50.6796Z",
+    "catalog_date": "2026-09-18T13:49:41.7236Z",
     "android_entries_total": 18
   },
   "urgency": "elevated",
