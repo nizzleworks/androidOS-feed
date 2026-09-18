@@ -23,7 +23,7 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Build feed
-        run: python3 android_feed_v3.py
+        run: python3 android_feed_v4.py
 
       - name: Commit if changed
         run: |
