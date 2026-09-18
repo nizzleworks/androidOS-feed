@@ -2,12 +2,16 @@ name: Build Android feed
 
 on:
   schedule:
-    # 12:15 UTC daily (~8:15am Eastern). Cron is always UTC.
-    - cron: "15 12 * * *"
+    # Runs daily (8:00am Eastern) when done.
+    - cron: "30 12 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -34,5 +38,6 @@ jobs:
             echo "No change."
           else
             git commit -m "Feed update: $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
             git push
           fi
