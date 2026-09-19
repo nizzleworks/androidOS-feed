@@ -1,9 +1,6 @@
 name: Build Android feed
 
 on:
-  schedule:
-    # Runs daily (8:00am Eastern) when done.
-    - cron: "30 12 * * *"
   workflow_dispatch:
 
 permissions:
