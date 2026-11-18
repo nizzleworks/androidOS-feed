@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T13:30:01Z",
+  "generated": "2026-11-18T13:30:01Z",
   "schema": 4,
   "sources": {
     "versions": "https://endoflife.date/api/android.json",
@@ -22,7 +22,7 @@
       "2026-11-05"
     ],
     "latest_spl": "2026-11-05",
-    "latest_spl_age_days": 11,
+    "latest_spl_age_days": 13,
     "latest_spl_age_months": 0.4,
     "cve_total": 215,
     "by_patch_level": {
@@ -162,7 +162,7 @@
     }
   },
   "latest_spl": "2026-11-05",
-  "latest_spl_age_days": 11,
+  "latest_spl_age_days": 13,
   "history": [
     {
       "month": "2026-11-01",
@@ -187,7 +187,7 @@
     {
       "version": "17",
       "release_date": "2026-06-16",
-      "days_since_release": 153,
+      "days_since_release": 155,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -204,7 +204,7 @@
     {
       "version": "16",
       "release_date": "2025-06-10",
-      "days_since_release": 524,
+      "days_since_release": 526,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -222,7 +222,7 @@
     {
       "version": "15",
       "release_date": "2024-09-03",
-      "days_since_release": 804,
+      "days_since_release": 806,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -239,7 +239,7 @@
     {
       "version": "14",
       "release_date": "2023-10-04",
-      "days_since_release": 1139,
+      "days_since_release": 1141,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -256,7 +256,7 @@
     {
       "version": "13",
       "release_date": "2022-08-15",
-      "days_since_release": 1554,
+      "days_since_release": 1556,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -271,7 +271,7 @@
     {
       "version": "12.1",
       "release_date": "2022-03-07",
-      "days_since_release": 1715,
+      "days_since_release": 1717,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -286,7 +286,7 @@
     {
       "version": "12",
       "release_date": "2021-10-04",
-      "days_since_release": 1869,
+      "days_since_release": 1871,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -301,7 +301,7 @@
     {
       "version": "11",
       "release_date": "2020-09-08",
-      "days_since_release": 2260,
+      "days_since_release": 2262,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -316,7 +316,7 @@
     {
       "version": "10",
       "release_date": "2019-09-03",
-      "days_since_release": 2631,
+      "days_since_release": 2633,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -331,7 +331,7 @@
     {
       "version": "9",
       "release_date": "2018-08-06",
-      "days_since_release": 3024,
+      "days_since_release": 3026,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -346,7 +346,7 @@
     {
       "version": "8.1",
       "release_date": "2017-12-05",
-      "days_since_release": 3268,
+      "days_since_release": 3270,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -361,7 +361,7 @@
     {
       "version": "8.0",
       "release_date": "2017-08-21",
-      "days_since_release": 3374,
+      "days_since_release": 3376,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -376,7 +376,7 @@
     {
       "version": "7.1",
       "release_date": "2016-12-01",
-      "days_since_release": 3637,
+      "days_since_release": 3639,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -391,7 +391,7 @@
     {
       "version": "7.0",
       "release_date": "2016-08-22",
-      "days_since_release": 3738,
+      "days_since_release": 3740,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -406,7 +406,7 @@
     {
       "version": "6.0",
       "release_date": "2015-10-05",
-      "days_since_release": 4060,
+      "days_since_release": 4062,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -421,7 +421,7 @@
     {
       "version": "5.1",
       "release_date": "2015-03-01",
-      "days_since_release": 4278,
+      "days_since_release": 4280,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -436,7 +436,7 @@
     {
       "version": "5.0",
       "release_date": "2014-11-12",
-      "days_since_release": 4387,
+      "days_since_release": 4389,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -451,7 +451,7 @@
     {
       "version": "4.4w",
       "release_date": "2014-03-31",
-      "days_since_release": 4613,
+      "days_since_release": 4615,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -466,7 +466,7 @@
     {
       "version": "4.4",
       "release_date": "2013-10-31",
-      "days_since_release": 4764,
+      "days_since_release": 4766,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -481,7 +481,7 @@
     {
       "version": "4.3",
       "release_date": "2013-07-24",
-      "days_since_release": 4863,
+      "days_since_release": 4865,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -496,7 +496,7 @@
     {
       "version": "4.2",
       "release_date": "2012-11-13",
-      "days_since_release": 5116,
+      "days_since_release": 5118,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -511,7 +511,7 @@
     {
       "version": "4.1",
       "release_date": "2012-07-09",
-      "days_since_release": 5243,
+      "days_since_release": 5245,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -526,7 +526,7 @@
     {
       "version": "4.0",
       "release_date": "2011-10-18",
-      "days_since_release": 5508,
+      "days_since_release": 5510,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -541,7 +541,7 @@
     {
       "version": "3.2",
       "release_date": "2011-07-15",
-      "days_since_release": 5603,
+      "days_since_release": 5605,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -556,7 +556,7 @@
     {
       "version": "3.1",
       "release_date": "2011-05-10",
-      "days_since_release": 5669,
+      "days_since_release": 5671,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -571,7 +571,7 @@
     {
       "version": "3.0",
       "release_date": "2011-02-22",
-      "days_since_release": 5746,
+      "days_since_release": 5748,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -586,7 +586,7 @@
     {
       "version": "2.3",
       "release_date": "2010-12-06",
-      "days_since_release": 5824,
+      "days_since_release": 5826,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -601,7 +601,7 @@
     {
       "version": "2.2",
       "release_date": "2010-05-20",
-      "days_since_release": 6024,
+      "days_since_release": 6026,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -616,7 +616,7 @@
     {
       "version": "2.1",
       "release_date": "2010-01-11",
-      "days_since_release": 6153,
+      "days_since_release": 6155,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -631,7 +631,7 @@
     {
       "version": "2.0",
       "release_date": "2009-10-26",
-      "days_since_release": 6230,
+      "days_since_release": 6232,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -646,7 +646,7 @@
     {
       "version": "1.6",
       "release_date": "2009-09-15",
-      "days_since_release": 6271,
+      "days_since_release": 6273,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -661,7 +661,7 @@
     {
       "version": "1.5",
       "release_date": "2009-04-27",
-      "days_since_release": 6412,
+      "days_since_release": 6414,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -676,7 +676,7 @@
     {
       "version": "1.1",
       "release_date": "2009-02-09",
-      "days_since_release": 6489,
+      "days_since_release": 6491,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -691,7 +691,7 @@
     {
       "version": "1.0",
       "release_date": "2008-09-23",
-      "days_since_release": 6628,
+      "days_since_release": 6630,
       "latest_point_release": null,
       "latest_point_release_date": null,
       "active_support_until": null,
@@ -707,7 +707,7 @@
   "kev": {
     "matches_this_month": [],
     "match_count": 0,
-    "catalog_date": "2026-11-13T20:24:18.3008Z",
+    "catalog_date": "2026-11-17T17:53:15.5664Z",
     "android_entries_total": 18
   },
   "urgency": "elevated",
